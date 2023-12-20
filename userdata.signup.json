@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "655f17dfeaa412cff0056786"
+  },
+  "created_date": {
+    "$date": "2023-11-23T09:14:07.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655f26e82db06e569cf52f04"
+  },
+  "username": "rama",
+  "email": "rama@gmail.com",
+  "password": "123456789",
+  "created_date": {
+    "$date": "2023-11-23T10:18:16.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6564399d2e0654898fa619b6"
+  },
+  "username": "ruby",
+  "email": "ruby@gmail.com",
+  "password": "11111",
+  "created_date": {
+    "$date": "2023-11-27T06:39:25.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65643a702e0654898fa619b8"
+  },
+  "username": "mohan",
+  "email": "mohan@gmail.com",
+  "password": "12345678",
+  "created_date": {
+    "$date": "2023-11-27T06:42:56.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65643aa02e0654898fa619bb"
+  },
+  "username": "sohan",
+  "email": "sohan@gmail.com",
+  "password": "45678945",
+  "created_date": {
+    "$date": "2023-11-27T06:43:44.855Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6565b2b5ead3b51d1532db22"
+  },
+  "username": "dfgfg",
+  "email": "fdgdf",
+  "password": "1234567",
+  "created_date": {
+    "$date": "2023-11-28T09:28:21.854Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65795050484c707848680757"
+  },
+  "username": "adarsh",
+  "email": "adarsh@gmail.com",
+  "password": "123456789",
+  "created_date": {
+    "$date": "2023-12-13T06:33:52.725Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6579a32d96d9475efdd384b2"
+  },
+  "username": "ramesh",
+  "email": "ramesh@gmail.com",
+  "password": "12345678",
+  "created_date": {
+    "$date": "2023-12-13T12:27:25.110Z"
+  }
+}]
